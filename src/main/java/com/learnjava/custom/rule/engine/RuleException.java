@@ -3,7 +3,7 @@ package com.learnjava.custom.rule.engine;
 /**
  * Generic exception thrown for any rule related runtime exception.
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 @SuppressWarnings("serial")

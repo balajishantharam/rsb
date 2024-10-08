@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * The Core of Rule Engine that builds Rule Context and executes the added rule(s) for the supplied fact(s). 
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public interface RuleExecutor {

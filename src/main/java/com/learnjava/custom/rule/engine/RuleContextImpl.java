@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Implementation of Rule Context.
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public class RuleContextImpl implements MutableRuleContext {

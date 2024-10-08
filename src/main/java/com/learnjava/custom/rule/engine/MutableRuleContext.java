@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Defines Mutable Rule Context. Serves as a working memory for currently executing session.
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public interface MutableRuleContext extends RuleContext{

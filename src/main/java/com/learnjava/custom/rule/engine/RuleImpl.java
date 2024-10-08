@@ -3,7 +3,7 @@ package com.learnjava.custom.rule.engine;
 /**
  * Implementation of rule. 
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public class RuleImpl implements Rule {

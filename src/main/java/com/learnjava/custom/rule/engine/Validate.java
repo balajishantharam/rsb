@@ -3,7 +3,7 @@ package com.learnjava.custom.rule.engine;
 /**
  * Validate class has common validation(s).
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public abstract class Validate{

@@ -3,7 +3,7 @@ package com.learnjava.custom.rule.engine;
 /**
  * Defines rule. 
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public interface Rule {

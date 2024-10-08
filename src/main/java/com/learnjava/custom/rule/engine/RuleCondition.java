@@ -3,7 +3,7 @@ package com.learnjava.custom.rule.engine;
 /**
  * Rule Condition is a functional interface. It defines the Rule Condition that needs to be executed at runtime.
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 @FunctionalInterface

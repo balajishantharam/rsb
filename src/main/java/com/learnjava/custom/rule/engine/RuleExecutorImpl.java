@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 /**
  * The Core of Rule Engine that builds Rule Context and executes the added rule(s) for the supplied fact(s). 
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public class RuleExecutorImpl implements RuleExecutor {

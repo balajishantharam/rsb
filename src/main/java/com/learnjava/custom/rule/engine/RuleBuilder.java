@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Rule Builder builds Rule.
  * 
- * @author MuthukumaranN
+ * @author
  *
  */
 public class RuleBuilder {
